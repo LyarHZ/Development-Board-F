@@ -33,3 +33,10 @@
 
 ## 使用许可
 [MIT](LICENSE) Richard Littauer
+
+<div align="center">
+  <img src="https://github.com/LyarHZ/Development-Board-F/blob/main/1.png">
+</div>
+<div align="center">
+  <img src="https://github.com/LyarHZ/Development-Board-F/blob/main/2.png">
+</div>
